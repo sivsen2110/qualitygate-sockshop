@@ -1,6 +1,6 @@
 ---
 spec_version: '0.1.0'
-dtCreds: dynatrace-api-token-rms
+dtCreds: dynatrace-api-token-zas
 attachRules:
   tagRule:
   - meTypes:
