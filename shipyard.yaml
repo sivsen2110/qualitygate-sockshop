@@ -19,3 +19,8 @@ spec:
       - name: "delivery"
         tasks: 
         - name: "evaluation"
+    - name: "prod"
+      sequences:
+      - name: "delivery"
+        tasks: 
+        - name: "evaluation"
